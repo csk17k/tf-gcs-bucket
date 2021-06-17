@@ -8,7 +8,7 @@ variable "bucket_location" {
 }
 variable "project_id" {
   type = string
-  default = "learning-project-276016"
+  default = "gcp-service-line-314413"
 }
 variable "storage_class" {
   type = string
