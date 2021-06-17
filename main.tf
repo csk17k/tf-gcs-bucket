@@ -5,6 +5,6 @@ resource "google_storage_bucket" "mypic" {
   project = var.project_id
   storage_class = var.storage_class
   location = var.bucket_location
-  source = "/images/nature/garden-tiger-moth.jpg"
+  source = "C:\Users\sricharan.koyalkar\Downloads\butterfly01"
   bucket = "image-store"
 }
