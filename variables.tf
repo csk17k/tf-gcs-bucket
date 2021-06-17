@@ -1,6 +1,6 @@
 variable "bucket_name" {
   type = string
-  description = "Bucket name"
+  description = "butterfly01"
 }
 variable "bucket_location" {
   type = string
